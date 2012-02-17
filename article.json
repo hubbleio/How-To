@@ -1,5 +1,10 @@
 {
   "title": "How to hubble.io",
   "description": "An artcile that explains how to use hubble.io for your org!",
-  "tags": ["intro", "howto"]
+  "tags": ["intro", "howto"],
+  "categories": [
+    ["Help", "How-tos"],
+    ["Tutorials"],
+    ["Resources", "Learning"]
+  ]
 }
